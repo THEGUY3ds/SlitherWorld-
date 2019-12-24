@@ -5,7 +5,7 @@ Best slither.io cheat/hack
 Get slither.io ips here: http://slither-ping.qc.vc/
 
 Bot server ip: 
-209.58.183.136:446
+139.99.130.166:444
 
 Credits: lukeeeebennett, overhax team and anyone who used the adlink for support :)
 

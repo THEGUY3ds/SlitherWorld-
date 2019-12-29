@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SLITHER WORLD OVERHAX
 // @namespace    http://slither.io/
-// @version      0.3
+// @version      0.4
 // @description  Most advanced slither.io hack
 // @author       OVERHAX | THEGUY3ds
 // @match        http://slither.io/
